@@ -9,10 +9,10 @@ public class Main {
 
 
     public static void main(String[] args) {
-        String expression = "7* ((12-(4+4+(4*2))+5)-12) / 5";
+        String expression = "7* ((12-(4+4+4*2)+5)-12) / 5";
         List<Lexeme> lexemes = lexicalAnalyzer(expression);
         Buffer buffer = new Buffer(lexemes);
-        System.out.println(expression(buffer));
+        System.out.println("Result: " + expression(buffer));
     }
 
     /**
