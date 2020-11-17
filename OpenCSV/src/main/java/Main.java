@@ -5,7 +5,7 @@ import java.io.IOException;
 
 
 public class Main {
-    public static  void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
         FileReader fileReader = new FileReader("C:\\Users\\JamesBomzh\\Desktop\\foreign_names.csv");
         CSVReader csvreader = new CSVReader(fileReader, ';');
         List<Human> list = new ArrayList<>();
