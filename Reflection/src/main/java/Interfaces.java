@@ -2,7 +2,7 @@ interface SomeInterface{
     public void doSomething();
 }
 
-interface SomeOtherInterface{
+interface SomeOtherInterface {
     public void doSomeOther();
 }
 
@@ -11,9 +11,9 @@ class SomeImpl implements SomeInterface {
 }
 
 class OtherImpl implements SomeInterface {
-    public void doSomething(){ System.out.println("B");}
+    public void doSomething(){ System.out.println("B"); }
 }
 
 class SODoer implements SomeOtherInterface {
-    public void doSomeOther(){ System.out.println("C");}
+    public void doSomeOther(){ System.out.println("C"); }
 }
