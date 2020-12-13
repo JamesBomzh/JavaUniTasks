@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c646ff0-3e7f-4785-9e35-fceaeb66cc47" name="Default Changelist" comment="" />
+    <list default="true" id="b54d5122-7fad-4150-8b17-d8f3a527f0fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Wrapper Class" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1j1JCZ9MstTJmX35NByMcJUvYTz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1lbHJa9KSdAX3IGtcViZipZ2YcF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,22 +30,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5c646ff0-3e7f-4785-9e35-fceaeb66cc47" name="Default Changelist" comment="" />
-      <created>1602965545635</created>
+      <changelist id="b54d5122-7fad-4150-8b17-d8f3a527f0fb" name="Default Changelist" comment="" />
+      <created>1607858799943</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602965545635</updated>
+      <updated>1607858799943</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="739" y="279" key="FileChooserDialogImpl" timestamp="1602966035688">
+    <state x="739" y="280" key="FileChooserDialogImpl" timestamp="1607858880116">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="739" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602966035688" />
-    <state x="385" y="146" key="new project wizard" timestamp="1602966062401">
+    <state x="739" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1024.52.1024.738@0.0.1920.1050" timestamp="1607858880116" />
+    <state x="385" y="187" key="new project wizard" timestamp="1607858911702">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="385" y="146" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1602966062401" />
+    <state x="385" y="187" key="new project wizard/0.0.1920.1050/-1024.52.1024.738@0.0.1920.1050" timestamp="1607858911702" />
   </component>
 </project>
