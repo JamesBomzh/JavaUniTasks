@@ -13,9 +13,9 @@ import java.util.Properties;
 class Injector<T> {
     private Properties prop;
 
-    Injector(String path) throws IOException {
+    Injector() throws IOException {
         prop = new Properties();
-        prop.load(new FileInputStream(new File(path)));
+        prop.load(new FileInputStream(new File("src/main/resources/prop.properties")));
     }
 
     /**
